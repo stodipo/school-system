@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Teachers panel</title>
+	<title>Students panel</title>
 </head>
 <body>
-	<h1>The Teachers Panel</h1><hr>
+	<h1>The Students Panel</h1><hr>
 	<h2>Log in</h2>
 	<table>
 	<form method="POST" action="">
